@@ -1,0 +1,57 @@
+#Header
+{
+	
+	background-color: #263238;
+	
+}
+
+#Academic
+{
+	
+	background-color: #1565C0;
+	
+}
+
+#Work
+{
+	
+	background-color: #42A5F5;
+	
+}
+
+h1 
+{
+	
+	color: white; 
+	
+}
+
+h2
+{
+	
+	color: white;
+	
+}
+
+p
+{
+	
+	color: white;
+	
+}
+
+body
+{
+	
+	border: 0px; 
+	margin: 0px;
+	
+}
+
+ul
+{
+	
+	list-style-type: circle;
+	color: white;
+	
+}

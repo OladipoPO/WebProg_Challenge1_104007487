@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en-US" style="margin: 0px;">
 
 	<head>
 	
-		<link href="C:/Users/ADMIN/Documents/Swinburne UNI/CERT IV in Information Technology Oladipo Omidiora/Web Applications (WA)/Apply Introductory Programming Skills in Different Languages (ICTPRG440)/Session 6/Assignment/styles.css"
-		rel="stylesheet" type="text/css"/>
+		<link href="styles.css" rel="stylesheet" type="text/css"/>
 	
 	</head>
 
 	<body>
 	
-		<div>
+		<div id="Header">
 		
 			<h1>
 			
@@ -19,7 +18,7 @@
 			
 			</h1>
 			
-			<h2>SOFTWARE DEVELOPER</h2>
+			<h2 style="color: white;">SOFTWARE DEVELOPER</h2>
 			
 			<p>
 			
@@ -29,7 +28,7 @@
 		
 		</div>
 	
-		<div>
+		<div id="Academic">
 		
 			<h2>ACADEMIC HISTORY</h2>
 			
@@ -57,7 +56,7 @@
 		
 		</div>
 	
-		<div>
+		<div id="Work">
 		
 			<h2>WORK EXPERIENCE</h2>
 			
