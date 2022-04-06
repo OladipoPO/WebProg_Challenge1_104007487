@@ -18,9 +18,9 @@
 			
 			</h1>
 			
-			<h2 style="color: white;">SOFTWARE DEVELOPER</h2>
+			<h2 style="color: white; padding: 10px;">SOFTWARE DEVELOPER</h2>
 			
-			<p>
+			<p style="padding-bottom: 20px;">
 			
 				Wearing down my keyboard since my 8th birthday so you probably couldn't do without me.
 			
@@ -46,7 +46,7 @@
 						
 						</div>
 					
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
 
 					
 					</p>
@@ -65,7 +65,7 @@
 						
 						</div>
 					
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
 
 					
 					</p>
@@ -78,13 +78,13 @@
 						
 						<b>MY UNIVERSITY SCHOOL</b> Location, City 3000<br/>
 							
-							<div id="Extra">
+						<div id="Extra">
 							
-								<p>January 2016 - Current</p>
+							<p>January 2016 - Current</p>
 						
-							</div>
+						</div>
 						
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
 						
 					</p>
 				
@@ -108,11 +108,11 @@
 						
 						<div id="Extra">
 						
-							<p>January 2016 - Current</p>
+							<p>January 2014 - March 2015</p>
 						
 						</div>
 						
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
 					
 					</p>
 				
@@ -126,11 +126,11 @@
 						
 						<div id="Extra">
 							
-							<p>January 2000 - December 2008</p>
+							<p>March 2015 - December 2016</p>
 							
 						</div>
 						
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
 					
 					</p>
 				
@@ -144,11 +144,11 @@
 						
 						<div id="Extra">
 							
-							<p>January 2000 - December 2008</p>
+							<p>December 2017 - Current</p>
 							
 						</div>
 						
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
 					
 					</p>
 				
