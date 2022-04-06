@@ -3,14 +3,13 @@
 
 	<head>
 	
-		<link href="C:/Users/ADMIN/Documents/Swinburne UNI/CERT IV in Information Technology Oladipo Omidiora/Web Applications (WA)/Apply Introductory Programming Skills in Different Languages (ICTPRG440)/Session 6/Assignment/styles.css"
-		rel="stylesheet" type="text/css"/>
+		<link href="styles.css" rel="stylesheet" type="text/css"/>
 	
 	</head>
 
 	<body>
 	
-		<div>
+		<div id="Header">
 		
 			<h1>
 			
@@ -19,9 +18,9 @@
 			
 			</h1>
 			
-			<h2>SOFTWARE DEVELOPER</h2>
+			<h2 style="color: white; padding: 10px;">SOFTWARE DEVELOPER</h2>
 			
-			<p>
+			<p style="padding-bottom: 20px;">
 			
 				Wearing down my keyboard since my 8th birthday so you probably couldn't do without me.
 			
@@ -29,7 +28,7 @@
 		
 		</div>
 	
-		<div>
+		<div id="Academic">
 		
 			<h2>ACADEMIC HISTORY</h2>
 			
@@ -37,19 +36,57 @@
 			
 				<li>
 				
-					<p>MY PRIMARY SCHOOL Location, City 3000</p>
+					<p>
+					
+						<b>MY PRIMARY SCHOOL</b> Location, City 3000</br>
+						
+						<div id="Extra">
+						
+							<p>January 2000 - December 2008</p>
+						
+						</div>
+					
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
+
+					
+					</p>
 				
 				</li>
 				
 				<li>
 				
-					<p>MY HIGH SCHOOL Location, City 3000</p>
-				
+					<p>
+					
+						<b>MY HIGH SCHOOL</b> Location, City 3000<br/>
+					
+						<div id="Extra">
+						
+							<p>January 2000 - December 2015</p>
+						
+						</div>
+					
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
+
+					
+					</p>
+							
 				</li>
 				
 				<li>
 				
-					<p>MY UNIVERSITY SCHOOL Location, City 3000</p>
+					<p style="margin-bottom: 16px;">
+						
+						<b>MY UNIVERSITY SCHOOL</b> Location, City 3000<br/>
+							
+						<div id="Extra">
+							
+							<p>January 2016 - Current</p>
+						
+						</div>
+						
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
+						
+					</p>
 				
 				</li>
 			
@@ -57,7 +94,7 @@
 		
 		</div>
 	
-		<div>
+		<div id="Work">
 		
 			<h2>WORK EXPERIENCE</h2>
 			
@@ -65,19 +102,55 @@
 			
 				<li>
 				
-					<p>RETAIL SHOP NAME Location, City 3000</p>
+					<p>
+					
+						<b>RETAIL SHOP NAME</b> Location, City 3000<br/>
+						
+						<div id="Extra">
+						
+							<p>January 2014 - March 2015</p>
+						
+						</div>
+						
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
+					
+					</p>
 				
 				</li>
 				
 				<li>
 				
-					<p>SOFTWARE DEVELOPEMENT CONTRACT Location, City 3000</p>
+					<p>
+					
+						SOFTWARE DEVELOPEMENT CONTRACT Location, City 3000<br/>
+						
+						<div id="Extra">
+							
+							<p>March 2015 - December 2016</p>
+							
+						</div>
+						
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
+					
+					</p>
 				
 				</li>
 				
 				<li>
 				
-					<p>HUGE SOFTWARE DEVELOPMENT COMPANY Location, City 3000</p>
+					<p>
+					
+						HUGE SOFTWARE DEVELOPMENT COMPANY Location, City 3000<br/>
+						
+						<div id="Extra">
+							
+							<p>December 2017 - Current</p>
+							
+						</div>
+						
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tortor quis nulla vulputate vulputate.</p>
+					
+					</p>
 				
 				</li>
 			

@@ -1,0 +1,77 @@
+#Header
+{
+	
+	background-color: #263238;
+	
+}
+
+#Academic
+{
+	padding: 20px;
+	background-color: #1565C0;
+	
+}
+
+#Work
+{
+	
+	background-color: #42A5F5;
+	
+}
+
+#Extra > p
+{
+	
+	display: inline-block;
+	background-color: #607D8B;
+	padding: 5px;
+	
+}
+
+h1 
+{
+	margin: 0px;
+	padding: 15px;
+	color: white; 
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	
+}
+
+h2
+{
+	
+	margin: 0px;
+	color: white;
+	font-family:arial, helvetica, sans-serif;
+
+}
+
+p
+{
+	
+	color: white;
+	margin-bottom: 0px;
+	font-family:arial, helvetica, sans-serif;
+	
+}
+
+body
+{
+	
+	border: 0px; 
+	margin: 0px;
+	background-size: cover;
+	background-color: #42A5F5;
+	
+}
+
+ul
+{
+	
+	list-style-type: circle;
+	color: white;
+	margin: 0px;
+	margin-bottom: 16px;
+	
+}
+
